@@ -1,6 +1,5 @@
-Jose Ramirez
-
-JAVA_CORE_HW folder can be opened as an intellilj IDEA project, 
+Dwight clarke
+JAVA_HW 
 
 Src folder holds the probems below, each problem is in its own package/directory. 
 
